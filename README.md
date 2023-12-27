@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Abhay Singh</h1>
-<iframe src="https://giphy.com/embed/juua9i2c2fA0AIp2iq" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/putti-programming-html-computer-juua9i2c2fA0AIp2iq">via GIPHY</a></p>
 <h3 align="center">Welcome to my GitHub profile, where I dive into the fascinating world of data analysis. I'm passionate about extracting insights from complex data sets and transforming them into actionable information.I am dedicated to continuous learning and staying updated with the latest tools and techniques in the data analytics field. I thrive on solving complex problems and turning data into actionable insights. Let's connect and collaborate on exciting projects or share knowledge to unlock the full potential of data together !</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhaysingh2000&label=Profile%20views&color=0e75b6&style=flat" alt="abhaysingh2000" /> </p>
